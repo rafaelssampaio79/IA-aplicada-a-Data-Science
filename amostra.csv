@@ -1,0 +1,21 @@
+ID_compra,data,horario,categoria,preco_unitario,quantidade,frete,metodo_pagamento,ID_cliente,idade,sexo_biologico,cidade,uf,regiao,cashback,avaliacao_compra
+5998,2023-12-28,00:29,Eletrodomésticos,2096.9,3,0.0,PIX,1795,38,Masculino,São Paulo,São Paulo,Sudeste,Sim,9
+409,2023-02-19,22:53,Eletrodomésticos,2049.9,5,0.0,Cartão de Crédito,5267,49,Masculino,São Paulo,São Paulo,Sudeste,Não,10
+1489,2023-05-27,23:24,Alimentos e bebidas,68.9,4,13.78,Boleto,7486,45,Feminino,Curitiba,Paraná,Sul,Não,9
+1739,2023-06-09,23:46,Ferramentas e construção,269.9,2,21.59,Cartão de Crédito,7101,42,Feminino,Curitiba,Paraná,Sul,Não,8
+3039,2023-08-29,18:15,Beleza e cuidados pessoais,183.9,5,27.58,Cartão de Débito,7373,29,Masculino,Curitiba,Paraná,Sul,Não,8
+3741,2023-10-21,21:14,Eletrônicos,5671.9,2,0.0,Cartão de Crédito,7786,49,Feminino,Campinas,São Paulo,Sudeste,Não,7
+3338,2023-09-28,22:45,Eletrônicos,4483.9,4,1255.49,Cartão de Crédito,6918,40,Feminino,Fortaleza,Ceará,Nordeste,Sim,9
+3839,2023-10-26,23:57,Ferramentas e construção,41.9,2,4.19,PIX,8858,39,Masculino,Londrina,Paraná,Sul,Não,9
+1964,2023-06-21,23:13,Alimentos e bebidas,12.9,3,1.94,PIX,6414,50,Masculino,São Luís,Maranhão,Nordeste,Não,7
+1749,2023-06-09,17:21,Eletrodomésticos,2724.9,2,599.48,PIX,8569,48,Feminino,Boa Vista,Roraima,Norte,Não,9
+1722,2023-06-08,17:23,Papelaria e escritório,39.9,3,5.98,PIX,3324,33,Masculino,Belo Horizonte,Minas Gerais,Sudeste,Não,10
+4571,2023-11-22,18:32,Beleza e cuidados pessoais,33.9,1,2.37,PIX,7033,30,Feminino,Campo Grande,Mato Grosso do Sul,Centro-Oeste,Sim,9
+1637,2023-06-03,18:12,Alimentos e bebidas,98.9,5,0.0,PIX,1783,26,Masculino,São Paulo,São Paulo,Sudeste,Sim,8
+809,2023-04-09,14:13,Livros,60.9,2,6.09,Cartão de Crédito,2149,31,Masculino,Recife,Pernambuco,Nordeste,Sim,10
+1417,2023-05-24,21:09,Casa e limpeza,113.9,1,2.28,Boleto,5213,62,Feminino,Serra,Espírito Santo,Sudeste,Não,10
+2677,2023-08-11,14:12,Eletrônicos,6999.9,4,0.0,Cartão de Crédito,7916,32,Feminino,Campinas,São Paulo,Sudeste,Não,9
+401,2023-02-18,22:07,Casa e limpeza,69.9,3,2.1,Cartão de Crédito,7740,44,Masculino,Rio de Janeiro,Rio de Janeiro,Sudeste,Não,1
+3362,2023-09-30,00:40,Ferramentas e construção,42.9,2,0.0,PIX,3813,42,Masculino,Piracicaba,São Paulo,Sudeste,Não,9
+5456,2023-12-14,20:48,Alimentos e bebidas,54.9,4,0.0,Cartão de Débito,8093,23,Masculino,Campinas,São Paulo,Sudeste,Sim,9
+3976,2023-11-01,15:58,Eletrônicos,5105.9,2,0.0,Cartão de Crédito,4051,40,Masculino,Piracicaba,São Paulo,Sudeste,Não,9
